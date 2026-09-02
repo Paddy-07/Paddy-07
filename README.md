@@ -14,7 +14,6 @@ Completed a full-stack web development internship, contributing to project desig
 **Project Contributor, Automated Training System** — Recruit Training Centre, Indo-Tibetan Border Police Force (ITBPF), Ministry of Home Affairs, Government of India (2026)
 Designed, developed, and implemented an automated training system on-site, including system integration and control mechanisms.
 
-**Software Development Experience** — Anchorage Digital (past experience)
 
 ## Research
 
