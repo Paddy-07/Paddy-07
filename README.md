@@ -1,3 +1,5 @@
+![Profile Banner](./Paddy-07/Padmesh.png)
+
 # Padmesh Sivalingam
 
 Computer Science and Engineering (AI) student at Amrita Vishwa Vidyapeetham, focused on full-stack development and applied AI/ML.
