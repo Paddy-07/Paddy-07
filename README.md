@@ -1,4 +1,4 @@
-![Profile Banner](./Padmesh.png)
+![Profile Banner](./Padmesh.jpg)
 
 # Padmesh Sivalingam
 
