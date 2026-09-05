@@ -2,7 +2,9 @@
 
 <img src="41eb3500ccc9b4387101018b315a1fb2.jpg" alt="Banner" width="100%">
 
-# Padmesh Sivalingam
+<h1 style="font-family: 'Sackers Gothic Medium', sans-serif;">
+  Padmesh Sivalingam
+</h1>
 
 <a href="https://www.linkedin.com/in/padmesh-sivalingam-910156357/">
   <img src="https://skillicons.dev/icons?i=linkedin" width="45">
