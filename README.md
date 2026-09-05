@@ -33,23 +33,9 @@ Machine Learning &nbsp;·&nbsp; Deep Learning &nbsp;·&nbsp; Probabilistic AI &n
 
 ## Tech Stack
 
-**Machine Learning / Deep Learning**
-PyTorch, TensorFlow, Keras, scikit-learn, NumPy, Pandas, OpenCV, Librosa
-
-**Agentic / LLM**
-LangChain, LangGraph
-
-**Languages**
-Python, C++, JavaScript, TypeScript
-
-**Web**
-React, Node.js, Express, FastAPI, Flask
-
-**Data**
-PostgreSQL, MongoDB, Redis, ChromaDB
-
-**Tools**
-Git, Docker, LaTeX, Unity
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,c,cpp,java,javascript,typescript,html,css,react,nodejs,git,github,vscode,linux,postgresql,mysql,mongodb,docker,aws,tensorflow,pytorch,sklearn,numpy,pandas,opencv,jupyter&perline=10" />
+</p>
 
 <br>
 
