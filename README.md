@@ -13,10 +13,6 @@
 </a>
 &nbsp;&nbsp;
 
-<a href="mailto:padmeshsiva99@gmail.com">
-  <img src="https://cdn.simpleicons.org/gmail" width="45" height="45" alt="Email">
-</a>
-
 </div>
 
 <br>
