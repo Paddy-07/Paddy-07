@@ -19,7 +19,7 @@
 ## Skills
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,c,cpp,java,javascript,typescript,html,css,react,nodejs,django,git,github,vscode,linux,postgresql,mysql,mongodb,docker,aws,tensorflow,pytorch,sklearn,numpy,pandas,opencv,jupyter&perline=10" />
+  <img src="https://skillicons.dev/icons?i=python,c,cpp,java,javascript,typescript,html,css,react,nodejs,django,git,github,vscode,linux,postgresql,mysql,mongodb,docker,aws,tensorflow,pytorch,opencv,jupyter&perline=10" />
 </p>
 
 <br>
