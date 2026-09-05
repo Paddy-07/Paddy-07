@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Replace banner.jpg with your own banner image in the repo root -->
-<img src="banner.jpg" alt="Banner" width="100%">
+<img src="41eb3500ccc9b4387101018b315a1fb2.jpg" alt="Banner" width="100%">
 
 <br><br>
 
