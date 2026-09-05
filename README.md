@@ -5,10 +5,13 @@
 # Padmesh Sivalingam
 
 <a href="https://www.linkedin.com/in/padmesh-sivalingam-910156357/">
-  <img src="https://cdn.simpleicons.org/linkedin" width="45" height="45" alt="LinkedIn">
+  <img src="https://skillicons.dev/icons?i=linkedin" width="45">
 </a>
-
-&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;
+<a href="mailto:padmeshsiva99@gmail.com">
+  <img src="https://skillicons.dev/icons?i=gmail" width="45">
+</a>
+&nbsp;&nbsp;
 
 <a href="mailto:padmeshsiva99@gmail.com">
   <img src="https://cdn.simpleicons.org/gmail" width="45" height="45" alt="Email">
