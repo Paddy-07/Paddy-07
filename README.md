@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="41eb3500ccc9b4387101018b315a1fb2.jpg" alt="Banner" width="100%">
+<img src="Padmesh.jpg" alt="Banner" width="100%">
 
 <h1 style="font-family: 'Sackers Gothic Medium', sans-serif;">
   Padmesh Sivalingam
