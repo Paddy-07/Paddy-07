@@ -14,8 +14,8 @@
   <img src="https://skillicons.dev/icons?i=linkedin" width="45">
 </a>
 &nbsp;&nbsp;
-<a href="mailto:padmeshsiva99@gmail.com">
-  <img src="https://skillicons.dev/icons?i=gmail" width="45">
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=padmesiva99@gmail.com" target="_blank">
+  <img src="https://skillicons.dev/icons?i=gmail" width="45" />
 </a>
 &nbsp;&nbsp;
 
